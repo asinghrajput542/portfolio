@@ -38,6 +38,10 @@ export const NAV_LINKS = [
     id: "contact",
     title: "Contact",
     link: null,
+  },{
+    id: "resume",
+    title: "Resume",
+    link: "https://docs.google.com/document/d/1koMrfhxCIvSTeTUzuv2giGjSe9trfiZ-j2LAsbtGQKk/edit?usp=sharing",
   }
 ] as const;
 
