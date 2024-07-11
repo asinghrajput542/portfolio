@@ -54,22 +54,19 @@ export const About = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="empty-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          I am a seasoned Frontend Engineer specializing in Angular, React, and
-          TypeScript. With a strong background in JavaScript and a keen eye for
-          design, I create web applications that are both functional and
-          visually appealing.I thrive in collaborative environments and am
-          always eager to take on new challenges and learn new technologies. 
-          
+          I'm a Backend Engineer with 5 years of experience building scalable
+          web apps with Java, JavaScript, SpringBoot, Spring webFlux, Node JS,
+          Express JS, MySQL, JanusGraph DB for companies like Rakuten Symphony,
+          Netlink and HP Enterprises.
         </motion.p>
         <br></br>
         <motion.p
           variants={fadeIn("", "", 0.1, 1)}
           className="empty-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-        I'm open to Job opportunities where I can contribute, learn and grow. If
-          you have a good opportunity that matches my skills and experience then
-          don't hesitate to contact me.
-          </motion.p>
+          Is there any way my expertise can impact your business? Then don't
+          hesitate to contact me.
+        </motion.p>
 
         {/* Service Card */}
         <div className="mt-20 flex flex-wrap gap-10">

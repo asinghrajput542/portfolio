@@ -26,6 +26,18 @@ import kreativan from "./company/kreativan.png";
 import project7 from "./projects/project7.png";
 import github from "./socials/github.svg";
 import linkedin from "./socials/linkedin.svg";
+import mongo from "./tech/mongo.png";
+import mysql from "./tech/mysql.png";
+import hibernate from "./tech/hibernate.png";
+import spring from "./tech/spring.png";
+import webflux from "./tech/webflux.png";
+import java from "./tech/java.png";
+import hpe from "./company/hpe.png";
+import netlink from "./company/netlink.png";
+import javareactive from "./projects/javaReactive.png";
+import playtube from "./projects/playtube.png";
+import reacttextflow from "./projects/reactTextFlow.png";
+
 
 
 export {
@@ -53,4 +65,16 @@ export {
   project7,
   github,
   linkedin,
+  mysql,
+  hibernate,
+  webflux,
+  spring,
+  javareactive,
+  mongo,
+   netlink,
+  playtube,
+  hpe,
+  reacttextflow,
+  java,
+ 
 };

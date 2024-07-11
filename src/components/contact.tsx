@@ -20,7 +20,7 @@ export const Contact = () => {
 
   // handle form change
   const handleChange = (
-    e: ChangeEvent<HTMLInputElement | HTMLTextAreaElement>,
+    e: ChangeEvent<HTMLInputElement | HTMLTextAreaElement>
   ) => {
     const { name, value } = e.target;
 
@@ -76,7 +76,7 @@ export const Contact = () => {
 
     // True if all fields are validated
     return Object.keys(current).every(
-      (k) => current[k as keyof typeof current],
+      (k) => current[k as keyof typeof current]
     );
   };
 
@@ -98,12 +98,12 @@ export const Contact = () => {
         import.meta.env.VITE_APP_TEMPLATE_ID,
         {
           from_name: form.name,
-          to_name: "Nikhil",
+          to_name: "Ayush",
           from_email: form.email.trim().toLowerCase(),
           to_email: import.meta.env.VITE_APP_EMAILJS_RECIEVER,
           message: form.message,
         },
-        import.meta.env.VITE_APP_EMAILJS_KEY,
+        import.meta.env.VITE_APP_EMAILJS_KEY
       )
       .then(() => toast.success("Thanks for contacting me."))
       .catch((error) => {
@@ -147,7 +147,7 @@ export const Contact = () => {
                 id="name"
                 value={form.name}
                 onChange={handleChange}
-                placeholder="Nikhil Gurjar"
+                placeholder="Enter Your Name"
                 title="What's your name?"
                 disabled={loading}
                 aria-disabled={loading}
