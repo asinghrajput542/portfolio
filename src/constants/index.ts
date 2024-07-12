@@ -143,11 +143,12 @@ export const EXPERIENCES = [
     date: "Jan 2020 - Present",
     points: [
       "Project: RCP, Battle-tested Open RAN and Cloud Native Solution for Operator Deployments.",
-"Successfully migrated the inventory data from MySQL to graphDB during onsite work in Japan, ensuring that the transition was smooth and seamless.",
+"Created and delivered a product from scratch, meeting all OSS solution requirements by applying TMF standards 638 and 639, and achieved API certification from TMF forums.",
+"Successfully migrated the inventory data from MySQL to graphDB during on-site work in Japan, ensuring that the transition was smooth and seamless.",
 "Successfully executed POCs for migrating Rakuten's Inventory Manager module to a graph database-based microservice, resulting in a highly scalable and efficient system.",
-"Reduced onboarding time for new devices in the Inventory Module from 15 to just 1 day by switching from a manual process to the inventory service. This optimisation has led to a remarkable 93% efficiency gain, improving productivity, reducing costs, and positively impacting overall business performance.",
+"Reduced device onboarding time in the Inventory Module from 15 days to 1 day by switching from a manual process to the inventory service, achieving a 93% efficiency gain, boosting productivity, reducing costs, and enhancing business performance.",
 "Implemented an Enum Combination configuration for Inventory that has resulted in 100% prevention of junk and incorrect data ingestion, thereby increasing data accuracy and quality. As a result, the inventory data is more reliable and trustworthy than ever before.",
-"Developed a high-performance microservice using Kafka to manage large data volumes efficiently. This service processes an average of 10,000 data inserts/updates, significantly reducing the load on the Inventory system, and resulting in an incredibly efficient and scalable system."
+"Developed a high-performance microservice using Kafka to handle 10,000 data inserts/updates, reducing the load on the Inventory system and enhancing efficiency and scalability."
     ],
   },
   {
