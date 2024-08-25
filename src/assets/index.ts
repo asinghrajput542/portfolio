@@ -37,6 +37,7 @@ import netlink from "./company/netlink.png";
 import javareactive from "./projects/javaReactive.png";
 import playtube from "./projects/playtube.png";
 import reacttextflow from "./projects/reactTextFlow.png";
+import paynways from "./company/paynways.png";
 
 
 
@@ -76,5 +77,6 @@ export {
   hpe,
   reacttextflow,
   java,
+  paynways,
  
 };
