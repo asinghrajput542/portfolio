@@ -136,11 +136,22 @@ export const TECHNOLOGIES = [
 // Experiences
 export const EXPERIENCES = [
   {
+    title: "Senior Technical Lead",
+    company_name: "PayNways",
+    icon: paynways,
+    iconBg: "#383E56",
+    date: "Aug 2024 - Present",
+    points: [
+      "Project: PDOME, Enhancing Payment Efficiency and Security With Artificial Intelligence (AI).",
+"Creating and delivering a product from scratch, meeting all banking solution requirements by applying AI algo.",
+    ],
+  },
+  {
     title: "Senior Software Engineer",
     company_name: "Rakuten Symphony",
     icon: rakuten,
     iconBg: "#383E56",
-    date: "Jan 2020 - Present",
+    date: "Jan 2020 - Aug 2024",
     points: [
       "Project: RCP, Battle-tested Open RAN and Cloud Native Solution for Operator Deployments.",
 "Created and delivered a product from scratch, meeting all OSS solution requirements by applying TMF standards 638 and 639, and achieved API certification from TMF forums.",
