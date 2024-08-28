@@ -20,6 +20,7 @@ import {
   mongo,
   java,
   javascript,
+  paynways,
 } from "../assets";
 
 // Navbar Links
