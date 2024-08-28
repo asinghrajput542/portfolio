@@ -144,8 +144,11 @@ export const EXPERIENCES = [
     date: "Aug 2024 - Present",
     points: [
       "Project: PDOME, Enhancing Payment Efficiency and Security With Artificial Intelligence (AI).",
-"Creating and delivering a product from scratch, meeting all banking solution requirements by applying AI algo.",
-    ],
+      "Led the end-to-end design and development of the PDOME project, enhancing payment efficiency and security with AI.",
+      "Made critical decisions on architecture, tools, and technologies to support scalable, maintainable, and high-performance systems.",
+      "Successfully delivering a product from scratch, meeting all banking solution requirements.",
+      "Achieved a significant increase in payment efficiency and security for PayNways through the implementation of AI technology.",
+      ],
   },
   {
     title: "Senior Software Engineer",
