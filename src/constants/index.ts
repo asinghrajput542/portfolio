@@ -143,11 +143,11 @@ export const EXPERIENCES = [
     iconBg: "#383E56",
     date: "Aug 2024 - Present",
     points: [
-      "Project: PDOME, Enhancing Payment Efficiency and Security With Artificial Intelligence (AI).",
-      "Led the end-to-end design and development of the PDOME project, enhancing payment efficiency and security with AI.",
-      "Made critical decisions on architecture, tools, and technologies to support scalable, maintainable, and high-performance systems.",
+      "Project: PayGlobal360, A unified, plug-and-play financial platform for seamless, multi-channel payment processing and integration across products, regions, and institutions.",
+      "Delivered a banking product, cutting manual processing by 30% and ensuring full regulatory compliance.",
+      "Led PDOME product development, boosting payment speed by 45% and cutting fraud by 80%.",
       "Successfully delivering a product from scratch, meeting all banking solution requirements.",
-      "Achieved a significant increase in payment efficiency and security for PayNways through the implementation of AI technology.",
+      "Spearheaded architecture decisions that increased system scalability by 3x and reduced average response time by 45%.",
       ],
   },
   {
